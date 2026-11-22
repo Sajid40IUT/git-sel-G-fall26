@@ -1,1 +1,1 @@
-THIS IS A CONFLICT IN MAIN
+Conflict in new branch 
